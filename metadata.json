@@ -1,0 +1,6 @@
+{
+  "name": "AquaMind AI",
+  "description": "Smart Water Management & Citizen Utility Platform with water schedule forecasting, acoustic leak detection, grievance tracker, tanker finder, notification center, and citizen profile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
